@@ -1,9 +1,11 @@
 #include <iostream>
 
 using namespace std;
-<<<<<<< HEAD
-int tong(int a, int b);
-<<<<<<< HEAD
+<<<<<<< HEAD=======
+int tong(int a, int b){
+	return a+b;
+}
+
 int hieu(int a, int b){
 	return(a-b);
 }
@@ -23,6 +25,7 @@ int main()
 	cout<<"Tong = "<<tong(a,b)<<endl;
 	cout<<"Hieu = "<<hieu(a,b)<<endl;
 	cout<<"Tich = " << tich(a, b) << endl;
+
 
 	system("pause");
 	return 0;
