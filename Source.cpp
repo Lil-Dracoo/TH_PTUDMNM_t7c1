@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-<<<<<<< HEAD=======
+
 int tong(int a, int b){
 	return a+b;
 }
@@ -25,7 +25,8 @@ int main()
 	cout<<"Tong = "<<tong(a,b)<<endl;
 	cout<<"Hieu = "<<hieu(a,b)<<endl;
 	cout<<"Tich = " << tich(a, b) << endl;
-
+	cout<<endl;
+	cout<<"Tam2";
 
 	system("pause");
 	return 0;
